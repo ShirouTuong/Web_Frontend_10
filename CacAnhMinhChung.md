@@ -21,11 +21,12 @@ VD4:
 <img width="1325" height="1006" alt="Screenshot 2026-10-02 094555" src="https://github.com/user-attachments/assets/6d336d1b-f508-4489-88d8-e0646668d61f" />
 
 Bai 3:
+<img width="1303" height="987" alt="Screenshot 2026-10-02 095149" src="https://github.com/user-attachments/assets/e6183293-1dd8-44c7-808b-1734a829a0c6" />
+
+
+Bai 4:
 
 VD1:
 <img width="1316" height="988" alt="Screenshot 2026-10-02 095904" src="https://github.com/user-attachments/assets/171f6d15-9b9d-4128-8226-04cec9883bfd" />
 VD2:
 <img width="1305" height="988" alt="Screenshot 2026-10-02 095917" src="https://github.com/user-attachments/assets/a7aef71c-5099-4310-b9a4-d4e52ea4fb77" />
-
-Bai 3:
-<img width="1303" height="987" alt="Screenshot 2026-10-02 095149" src="https://github.com/user-attachments/assets/e6183293-1dd8-44c7-808b-1734a829a0c6" />
